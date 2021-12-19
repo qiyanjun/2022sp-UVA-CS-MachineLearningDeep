@@ -6,7 +6,7 @@ desc: "Information of Assignments for 2022 Spring  UVa CS 4774 Machine Learning"
 
 <hr>
 
-### Five assignments (50%)
+### Five assignments (75%)
 + Post in collab 
 + You will receive grading of each HWs within 10 day of each due time. A release email will send to you about the grading. (If you don’t receive such emails in time, please do email to to <br>
 [instructors22spring-machinelearningdeep@collab.its.virginia.edu](mailto:instructors22spring-machinelearningdeep@collab.its.virginia.edu).
@@ -65,11 +65,11 @@ desc: "Information of Assignments for 2022 Spring  UVa CS 4774 Machine Learning"
 
 <hr>
 
-### About in-class Quizzess (20%)
+### About in-class Quizzess (25%)
 + Quizz dates will show on the schedule page
 + Mostly quizzes will be on Mondays
 + Each quizz includes contents we cover in the previous week
-+ We will use your top-10 quizzes to calculate the 20%. 
+
 
 |INDEX     | Quiz |
 |------|----------------------------|
@@ -89,21 +89,4 @@ desc: "Information of Assignments for 2022 Spring  UVa CS 4774 Machine Learning"
 | Q-makeup   | [URL]() |
 
 
-### About in-class flip recital sessions organized by Prof. Qi
-+ We take the form of Synchorous flip model. During the flip mode, we use two weekly scheduled time sessions for the following plan. 
-
-|INDEX     | Content for Flipped Recital Sessions |
-|------|----------------------------|
-| 1013 W8   | deep learning library  |
-| 1015  W8   | project plan checkup |
-| 1020  W9   | HW1 + HW2 discussions |
-| 1022  W9   | Quiz 1-5 discussions |
-| 1027  W10   | HW3 discussions |
-| 1029  W10   | Slides W9-10 discussions |
-| 1103  W11   | Invited speaker RLGym|
-| 1105  W11   | Invited speaker TextAttack |
-| 1110  W12   |  W11-12 Slides discussions |
-| 1112  W12   | project midreport checkup |
-| 1117  W13   |  HW3, HW4 discussions  |
-| 1119  W13   | Quiz 6-11 discussions +  W13 slides discussions |
 
