@@ -43,8 +43,8 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
 
 + If you are unsure of your math background, please check out the following two review lectures I made: 
 
-  - [Basic prerequisite on Algebra and Calculus](https://qiyanjun.github.io/2020f-UVA-CS-MachineLearningDeep//contents/S0-L01-Basics/)
-  - [Basic prerequisite on probability](https://qiyanjun.github.io/2020f-UVA-CS-MachineLearningDeep//contents/S0-L02-prob/)
+  - [Basic prerequisite on Algebra and Calculus](https://qiyanjun.github.io/2022sp-UVA-CS-MachineLearningDeep//contents/S0-L01-Basics/)
+  - [Basic prerequisite on probability](https://qiyanjun.github.io/2022sp-UVA-CS-MachineLearningDeep//contents/S0-L02-prob/)
 
   -  If you are comfortable with the contents in above lectures, you will be fine for our class.
 
@@ -73,17 +73,18 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
 + ##### Prof. Yanjun Qi: 
   - [Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}
   - [yanjun@virginia.edu](mailto:instructors22spring-machinelearningdeep@collab.its.virginia.edu);  
-  - Rice Hall 503, 243-3089;  
+
 
 + ##### TAs: 
    + [instructors22spring-machinelearningdeep@collab.its.virginia.edu](mailto:instructors22spring-machinelearningdeep@collab.its.virginia.edu): 
-   + Jack Lanchantin
+   + Aman 
+   + Will
    + Zhe Wang
 
 
 + #### TA office hours and recitals
   - Via Course Slack Space / Link Shared via Collab maillist
-  - Tue: 5pm-6pm by Jack
+  - Tue: 5pm-6pm by Aman
   - Fri: 4pm-5pm By Zhe
   
 
@@ -98,26 +99,25 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
 
 ### Course Websites
 
-+ Course schedule and materials are  @ [https://qiyanjun.github.io/2020f-UVA-CS-MachineLearningDeep/](https://qiyanjun.github.io/2020f-UVA-CS-MachineLearningDeep/)
++ Course schedule and materials are  @ [https://qiyanjun.github.io/2022sp-UVA-CS-MachineLearningDeep/](https://qiyanjun.github.io/2022sp-UVA-CS-MachineLearningDeep/)
 + Course Piazza page for QA of exams, quizzes, class-discussions and assignments.
 + Course Collab page to submit  assignments and project reports.
-+ All logistic issues are announced via course [email list](mailto:20f-cs-4774-002-machine-learning@collab.its.virginia.edu)
++ All logistic issues are announced via course [email list](mailto:machine-learning22sp-cs-4774-001@collab.its.virginia.edu)
 
 
-### Course QA Slack Space and Assignments' QA on Piazza 
+### Course QA Slack Space 
 
-+ We have two separate discussions boards: (1) QAs about lectures and Quizzes via our course slack; (2) QAs on assignments in Course Piazza Board
 
 + Course Slack Space: We use Course Slack for office hour assistances and QA discussions on lectures and Quizzes.  Please ask all technical questions about the course content, Quiz and course projects on Course Slack. 
 
-+ We will use Piazza for QAs on Assignments. You can visit our class Piazza site through the course collab sidebar. This is the place where you can seek help, offer help, share your thoughts and discoveries, or discuss technical difficulties and potential troubleshooting on the assignments. 
++ We will also use this slack space for QAs on Assignments.  This is the place where you can seek help, offer help, share your thoughts and discoveries, or discuss technical difficulties and potential troubleshooting on the assignments. 
 
 
 ### Course Grading Policy
   The grade will be calculated as follows:
-+ Assignments (50%, with five assignments)
-+ Class quizzes (20%): each takes 10 mins via google form;  
-+   (30%):  
++ Assignments (75%, with five assignments)
++ Class quizzes (25%): each takes 10 mins via google form;  
+
 
 
 ### Assignment due dates, Lateness and Extensions
@@ -127,7 +127,7 @@ at 11:59pm on the due date </b>.
 + Programming solutions should be placed in each student's appropriate
  Collab  directory.
 
-+ #### All communications regarding late assignment submissions should go directly to [instructors22spring-machinelearningdeep@collab.its.virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu), not with the instructor.
++ #### All communications regarding late assignment submissions should go directly to [instructors22spring-machinelearningdeep@collab.its.virginia.edu](mailto:instructors-22sp-cs-6316@collab.its.virginia.edu), not with the instructor.
 
 + About Extensions:
   + Each student has <b>ten</b> extension days to be used at his or
