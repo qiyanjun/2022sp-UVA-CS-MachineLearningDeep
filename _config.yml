@@ -4,13 +4,13 @@ highlighter:      rouge
 
 # Permalinks
 permalink:      pretty
-baseurl: 	    	/2020f-UVA-CS-MachineLearningDeep/
+baseurl: 	    	/2022sp-UVA-CS-MachineLearningDeep/
 url:            https://qiyanjun.github.io/
 
 # Setup
-title:            	"20Fall UVA CS - Machine Learning"
-tagline:          	"2020 Fall"
-description:        "TuTh 3:30PM - 4:45PM "
+title:            	"2022 Spring UVA CS - Machine Learning"
+tagline:          	"2022 Spring"
+description:        "TuTh 2pm-3:15PM"
 future: 			true
 
 author:

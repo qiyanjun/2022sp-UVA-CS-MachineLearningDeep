@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and Good Use"
+desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations and Good Use"
 ---
 
 <hr>
@@ -10,14 +10,14 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 ### Course Basics:
 
-+ TuTh 3:30PM - 4:45PM 
++ TuTh 2pm - 3:15PM  
 + Via Zoom / Link Shared via Collab maillist
 
 ### General Description:
 
 + Machine Learning is concerned with building computer programs that automatically improve through experience. This 3-credit course covers master-level topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning (especially modern deep learning), unsupervised learning, learning theory, and RL.  (My version will be taught and organized independently from the other session). This Fall, I will focus on deep learning and add many examples of the real-world applications fighting against COVID19.
 
-+ Assignments include multiple short programming and writing assignments for hands-on experiments of various learning algorithms, multiple in-class quizzes, and a final project.
++ Assignments include multiple short programming and writing assignments for hands-on experiments of various learning algorithms, multiple in-class quizzes, and a  .
 
 + Objective of this course: 
   + Goal: To help students get capable in building machine learning tools (not just a tool user!!!) 
@@ -72,11 +72,11 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
 
 + ##### Prof. Yanjun Qi: 
   - [Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}
-  - [yanjun@virginia.edu](mailto:instructors20fall-machinelearningdeep@collab.its.virginia.edu);  
+  - [yanjun@virginia.edu](mailto:instructors22spring-machinelearningdeep@collab.its.virginia.edu);  
   - Rice Hall 503, 243-3089;  
 
 + ##### TAs: 
-   + [instructors20fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors20fall-machinelearningdeep@collab.its.virginia.edu): 
+   + [instructors22spring-machinelearningdeep@collab.its.virginia.edu](mailto:instructors22spring-machinelearningdeep@collab.its.virginia.edu): 
    + Jack Lanchantin
    + Zhe Wang
 
@@ -117,7 +117,7 @@ desc: "Information for 2020 Fall UVa CS Machine Learning, Math Foundations and G
   The grade will be calculated as follows:
 + Assignments (50%, with five assignments)
 + Class quizzes (20%): each takes 10 mins via google form;  
-+ Final project (30%):  
++   (30%):  
 
 
 ### Assignment due dates, Lateness and Extensions
@@ -127,7 +127,7 @@ at 11:59pm on the due date </b>.
 + Programming solutions should be placed in each student's appropriate
  Collab  directory.
 
-+ #### All communications regarding late assignment submissions should go directly to [instructors20fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu), not with the instructor.
++ #### All communications regarding late assignment submissions should go directly to [instructors22spring-machinelearningdeep@collab.its.virginia.edu](mailto:instructors-20f-cs-6316@collab.its.virginia.edu), not with the instructor.
 
 + About Extensions:
   + Each student has <b>ten</b> extension days to be used at his or
