@@ -15,14 +15,13 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
 
 ### General Description:
 
-+ Machine Learning is concerned with building computer programs that automatically improve through experience. This 3-credit course covers master-level topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning (especially modern deep learning), unsupervised learning, learning theory, and RL.  (My version will be taught and organized independently from the other session). This Fall, I will focus on deep learning and add many examples of the real-world applications fighting against COVID19.
++ Machine Learning is concerned with building computer programs that automatically improve through experience. This 3-credit course covers master-level topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning (especially modern deep learning), unsupervised learning, learning theory, and RL.  (My version will be taught and organized independently from the other session). This Fall, I will focus on deep learning and add many examples of the real-world applications.
 
-+ Assignments include multiple short programming and writing assignments for hands-on experiments of various learning algorithms, multiple in-class quizzes, and a  .
++ Assignments include multiple short programming and writing assignments for hands-on experiments of various machine learning algorithms and multiple in-class quizzess.
 
 + Objective of this course: 
   + Goal: To help students get capable in building machine learning tools (not just a tool user!!!) 
-  + Key Results: (1) to build multiple machine learning methods from scratch, (2) to understand complex machine learning methods at the source code level and (3) to produce one machine learning project on cutting-edge data applications with health or social impacts or with cutting-edge engineering impacts on deep learning benchmarking libraries. 
-
+  + Key Results: (1) to build multiple machine learning methods from scratch, and (2) to understand complex machine learning methods at the source code level. 
 
 
 + More concrete goals we aim to train our students: 
@@ -101,14 +100,13 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
 
 + Course schedule and materials are  @ [https://qiyanjun.github.io/2022sp-UVA-CS-MachineLearningDeep/](https://qiyanjun.github.io/2022sp-UVA-CS-MachineLearningDeep/)
 + Course Piazza page for QA of exams, quizzes, class-discussions and assignments.
-+ Course Collab page to submit  assignments and project reports.
-+ All logistic issues are announced via course [machine-learning22sp-cs-4774-001@collab.its.virginia.edu](mailto:machine-learning22sp-cs-4774-001@collab.its.virginia.edu)
++ Course Collab page to submit  assignments machine-learning22sp-cs-4774-001@collab.its.virginia.edu](mailto:machine-learning22sp-cs-4774-001@collab.its.virginia.edu)
 
 
 ### Course QA Slack Space 
 
 
-+ Course Slack Space: We use Course Slack for office hour assistances and QA discussions on lectures and Quizzes.  Please ask all technical questions about the course content, Quiz and course projects on Course Slack. 
++ Course Slack Space: We use Course Slack for office hour assistances and QA discussions on lectures and Quizzes.  Please ask all technical questions about the course content, Quiz and homeworks on Course Slack. 
 
 + We will also use this slack space for QAs on Assignments.  This is the place where you can seek help, offer help, share your thoughts and discoveries, or discuss technical difficulties and potential troubleshooting on the assignments. 
 
