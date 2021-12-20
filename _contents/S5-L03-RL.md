@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clustering GMM
+title: Reinforcement Learning
 lecture: S5-RL Reinforcement Learning 
 lectureVersion: current
 video: 
