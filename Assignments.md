@@ -67,7 +67,7 @@ desc: "Information of Assignments for 2022 Spring  UVa CS 4774 Machine Learning"
 
 ### About in-class Quizzess (25%)
 + Quizz dates will show on the schedule page
-+ Mostly quizzes will be on Mondays
++ Mostly quizzes will be on Thursdays
 + Each quizz includes contents we cover in the previous week
 
 
