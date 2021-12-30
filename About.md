@@ -15,7 +15,7 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
 
 ### General Description:
 
-+ Machine Learning is concerned with building computer programs that automatically improve through experience. This 3-credit course covers master-level topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning (especially modern deep learning), unsupervised learning, learning theory, and RL.  (My version will be taught and organized independently from the other session). This Fall, I will focus on deep learning and add many examples of the real-world applications.
++ Machine Learning is concerned with building computer programs that automatically improve through experience. This 3-credit course covers introductory-level topics about the theory and practical algorithms for machine learning from a variety of perspectives. Topics include supervised learning (especially modern deep learning), unsupervised learning, learning theory, and RL.  (My version will be taught and organized independently from the other session). This Spring, I will focus on deep learning and add many examples of the real-world applications.
 
 + Assignments include multiple short programming and writing assignments for hands-on experiments of various machine learning algorithms and multiple in-class quizzess.
 
