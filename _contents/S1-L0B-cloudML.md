@@ -1,7 +1,7 @@
 ---
 layout: post
-title: machine leanring in the AWS cloud 
-lecture: Not-Here
+title: machine learning in the AWS cloud 
+lecture: to-come
 lectureVersion: current
 notes: Invited Speaker   
 video: <a href="https://access.awscloud.com/initiate-elearning-series">video</a>
