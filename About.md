@@ -88,12 +88,11 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
   
 
 + #### Recital lectures about ML platforms
-  - On multiple Fridays, we will add recital sessions from TA or invited 
-  speakers to teach students about deep learning platforms or libraries. Specific dates will be communicated via our Collab maillist. These sessions are totally optional!  So far we have four recitals to cover:
-  - Machine Learning in the cloud: AWS invited speaker
-  - Pytorch platform
-  - RL Gym – invited speaker
-  - Adversarial ML – invited speaker
+  - We will have recital sessions from instructor, or TA or  invited 
+  speakers to teach students about deep learning platforms or libraries. Specific dates will be communicated via our Collab maillist.  So far we plan to have recital topics like: 
+    - Machine Learning in the cloud: AWS invited speaker
+    - RL Gym – invited speaker
+    - Adversarial ML – invited speaker
 
 
 ### Course Websites
