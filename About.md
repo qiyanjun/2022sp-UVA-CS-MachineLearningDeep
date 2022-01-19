@@ -76,15 +76,16 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
 
 + ##### TAs: 
    + [instructors22spring-machinelearningdeep@collab.its.virginia.edu](mailto:instructors22spring-machinelearningdeep@collab.its.virginia.edu): 
-   + Aman 
-   + Will
+   + Shrivastava, Aman (as3ek) 
+   + Will Peterson
    + Zhe Wang
 
 
 + #### TA office hours and recitals
   - Via Course Slack Space / Link Shared via Collab maillist
-  - Tue: 5pm-6pm by Aman
-  - Fri: 4pm-5pm By Zhe
+  - Mon: 5pm-6pm by Aman
+  - Wed: 5pm-6pm By Zhe Wang
+  - Fri: 5pm-6pm By William Christopher Peterson
   
 
 + #### Recital lectures about ML platforms
