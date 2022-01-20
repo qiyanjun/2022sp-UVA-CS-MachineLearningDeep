@@ -73,7 +73,7 @@ desc: "Information of Assignments for 2022 Spring  UVa CS 4774 Machine Learning"
 
 |INDEX     | Quiz |
 |------|----------------------------|
-| Q0-fake   | [URL](https://forms.gle/B6Rr6NLRS2G5oUbu5) |
+| Q0-fake   | [URL]() |
 | Q1   | [URL]() |
 | Q2   | [URL]() |
 | Q3   | [URL]() |
