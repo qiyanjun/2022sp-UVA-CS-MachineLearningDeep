@@ -99,7 +99,7 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
 ### Course Websites
 
 + Course schedule and materials are  @ [https://qiyanjun.github.io/2022sp-UVA-CS-MachineLearningDeep/](https://qiyanjun.github.io/2022sp-UVA-CS-MachineLearningDeep/)
-+ Course Piazza page for QA of exams, quizzes, class-discussions and assignments.
++ Course Slack space for QA of exams, quizzes, class-discussions and assignments.
 + Course Collab page to submit  assignments [machine-learning22sp-cs-4774-001@collab.its.virginia.edu](mailto:machine-learning22sp-cs-4774-001@collab.its.virginia.edu)
 
 
@@ -145,7 +145,7 @@ for anything turned in late.
 + If you do not receive the welcome message the second week of the course, please
 send mail to the instructor.
 + Errata and answers to questions are being discussed and answered
-   on  the course piazza site and through course email-list.
+   on  the course Slack site and through course email-list.
 
 
 
