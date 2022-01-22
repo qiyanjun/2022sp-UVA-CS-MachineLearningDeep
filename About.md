@@ -158,6 +158,9 @@ send mail to the instructor.
 
 ### Extra Useful references
 
++ [Deep Learning with Python](https://www.amazon.com/Learning-Python-Second-Fran-C3-A7ois-Chollet-dp-1617296864/dp/1617296864/ref=dp_ob_title_bk) by Francois Chollet
+
+
 + [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 + [fast.ai Making neural nets uncool again](https://www.fast.ai/)
