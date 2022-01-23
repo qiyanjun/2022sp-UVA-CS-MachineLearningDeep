@@ -43,7 +43,7 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
 + If you are unsure of your math background, please check out the following two review lectures I made: 
 
   - [Basic prerequisite on Algebra and Calculus](https://qiyanjun.github.io/2022sp-UVA-CS-MachineLearningDeep//contents/S0-L01-Basics/)
-  - [Basic prerequisite on probability](https://qiyanjun.github.io/2022sp-UVA-CS-MachineLearningDeep//contents/S0-L02-prob/)
+  - [Basic prerequisite on probability](https://qiyanjun.github.io/2022sp-UVA-CS-MachineLearningDeep//contents/S2-L01-probMLE/)
 
   -  If you are comfortable with the contents in above lectures, you will be fine for our class.
 
