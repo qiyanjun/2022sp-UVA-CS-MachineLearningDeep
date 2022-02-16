@@ -80,7 +80,6 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
    + Will Peterson
    + Zhe Wang
 
-
 + #### TA office hours and recitals
   - Via Course Slack Space / Link Shared via Collab maillist
   - Mon: 5pm-6pm by Aman
