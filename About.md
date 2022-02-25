@@ -84,8 +84,9 @@ desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations an
   - Via Course Slack Space / Link Shared via Collab maillist
   - Mon: 5pm-6pm by Aman
   - Wed: 5pm-6pm By Zhe Wang
-  - Fri: 5pm-6pm By William Christopher Peterson
+  - Fri: 1pm-2:30pm By William Christopher Peterson
   
+
 
 + #### Recital lectures about ML platforms
   - We will have recital sessions from instructor, or TA or  invited 
