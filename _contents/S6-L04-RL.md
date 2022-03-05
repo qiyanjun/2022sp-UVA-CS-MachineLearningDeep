@@ -7,6 +7,7 @@ notes: Invited Speaker
 video:    
 categories: library
 platform: true
+extra: true
 tags:
 - notSupervised
 ---
