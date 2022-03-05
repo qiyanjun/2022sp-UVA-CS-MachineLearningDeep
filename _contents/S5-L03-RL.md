@@ -6,6 +6,7 @@ lectureVersion: current
 video: 
 notes: 
 categories: structured
+extra: true
 tags:
 - notSupervised
 - 5Theory
