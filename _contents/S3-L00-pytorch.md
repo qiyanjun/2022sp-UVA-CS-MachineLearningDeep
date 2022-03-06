@@ -7,7 +7,6 @@ notes: <a href="https://qiyanjun.github.io/2020f-UVA-CS-MachineLearningDeep//Lec
 video: 
 categories: library
 platform: true
-extra: true
 tags:
 - platform
 ---
