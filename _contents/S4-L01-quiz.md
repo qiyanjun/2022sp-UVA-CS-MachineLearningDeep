@@ -2,7 +2,7 @@
 layout: post
 title: Quiz reviews
 lecture:  S4-quiz-review
-lectureVersion: current
+lectureVersion: next
 video: see slack   
 notes:  see slack 
 ---
