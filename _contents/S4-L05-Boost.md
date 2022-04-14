@@ -2,7 +2,7 @@
 layout: post
 title:  RF and Boosting
 lecture: S4-DT-Ensemble
-lectureVersion: current
+lectureVersion: next
 extraContent: S4-DT-moreBoosting
 notes: <a href="https://github.com/dmlc/xgboost"> xgboost </a> 
 video: <a href="https://youtu.be/NuxS9SycZG8">M1</a> + <a href="https://youtu.be/m52bovS_eNA">M2</a> + <a href="https://youtu.be/sRLyzg5hmuM">M3</a>  + <a href="https://youtu.be/VwFTEW_NM4o">M4</a>  
