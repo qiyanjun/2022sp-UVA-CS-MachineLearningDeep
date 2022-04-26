@@ -7,6 +7,7 @@ extraContent: L19d-EMextra-EM
 video: <a href="https://youtu.be/239r6zlZYhY">M1</a> + <a href="https://youtu.be/OFKKeVhCQfA">M2</a> 
 notes: <a href="https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html"> compare clusterings </a> 
 categories: tabular
+extra: true
 tags:
 - 4Unsupervised
 - Generative

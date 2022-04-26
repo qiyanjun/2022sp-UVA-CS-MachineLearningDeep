@@ -10,7 +10,11 @@ tags:
 - 4Unsupervised
 ---
 
-
+Hierarchical: 
 - Module1: Basics of Unsupervised Clustering @ https://youtu.be/mxrcPHWCZAI
-
 - Module2: Hierarchical Clustering @ https://youtu.be/2K6gXLf4Em4
+
+K-means
+- Module1: Basic K-Means Algorithm @ https://youtu.be/239r6zlZYhY 
+- Module2: Theory/Complexity of K-Means @ https://youtu.be/OFKKeVhCQfA
+- Extra Module3: Gaussian Mixture Models @ https://youtu.be/pmNPXpj0eK4
