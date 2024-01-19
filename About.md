@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations and Good Use"
+desc: "Information for 2022 Spring  UVa CS Machine Learning, Math Foundations and Good Use Course"
 ---
 
 <hr>
